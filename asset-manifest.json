@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BPR601/static/css/main.04a6072d.css",
+    "main.js": "/BPR601/static/js/main.f7e113cc.js",
+    "static/media/login-removebg-preview.png": "/BPR601/static/media/login-removebg-preview.24f99e4bdb2541df0af7.png",
+    "index.html": "/BPR601/index.html",
+    "main.04a6072d.css.map": "/BPR601/static/css/main.04a6072d.css.map",
+    "main.f7e113cc.js.map": "/BPR601/static/js/main.f7e113cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a6072d.css",
+    "static/js/main.f7e113cc.js"
+  ]
+}
